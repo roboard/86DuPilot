@@ -1,0 +1,36 @@
+LIBRARIES += AP_Avoidance
+LIBRARIES += AP_AdvancedFailsafe
+LIBRARIES += AP_AHRS
+LIBRARIES += AP_Baro
+LIBRARIES += AP_BattMonitor
+LIBRARIES += AP_BoardConfig
+LIBRARIES += AP_Buffer
+LIBRARIES += AP_Common
+LIBRARIES += AP_Compass
+LIBRARIES += AP_Declination
+LIBRARIES += AP_Frsky_Telem
+LIBRARIES += AP_GPS
+LIBRARIES += AP_InertialSensor
+LIBRARIES += AP_Math
+LIBRARIES += AP_Mission
+LIBRARIES += AP_Mount
+LIBRARIES += AP_NavEKF
+LIBRARIES += AP_Notify
+LIBRARIES += AP_Param
+LIBRARIES += AP_Progmem
+LIBRARIES += AP_Rally
+LIBRARIES += AP_Scheduler
+LIBRARIES += AP_Terrain
+LIBRARIES += AP_Vehicle
+LIBRARIES += DataFlash
+LIBRARIES += Filter
+LIBRARIES += GCS_MAVLink
+LIBRARIES += StorageManager
+LIBRARIES += AP_RangeFinder
+LIBRARIES += AP_BLHeli
+LIBRARIES += RC_Channel
+LIBRARIES += AP_SerialManager
+LIBRARIES += AP_AccelCal
+LIBRARIES += AP_Camera
+
+
