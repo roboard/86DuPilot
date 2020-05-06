@@ -3,7 +3,7 @@ This is a fork of the Ardupilot library for 86Duino boards.
 (original Ardupilot library: https://github.com/ArduPilot/ardupilot)
 
 This ported Ardupilot is version 3.5.3 dev. (2017.09.15)
-The Ardupilot flight stack is modified to run on FreeDOS.
+The Ardupilot flight stack is modified to run on 86Duino.
 
 ### Requirements
 1. a DuinOS SD card (http://www.86duino.com/index.php?p=11878)
@@ -40,5 +40,5 @@ http://ardupilot.org/copter/docs/configuring-hardware.html
 
 ### Demo Video
 <div align=center>
-<a href="https://www.youtube.com/watch?v=LruKS4eodQ0"><img src="https://img.youtube.com/vi/LruKS4eodQ0/0.jpg" alt="86Ardupilot"></a>
+<a href="https://www.youtube.com/watch?v=Km-dQn0TMFc"><img src="https://img.youtube.com/vi/Km-dQn0TMFc/0.jpg" alt="86DuPilot"></a>
 </div>
